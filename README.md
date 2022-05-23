@@ -4,6 +4,6 @@ this case the project you are seeing is a real-time-tracker that shows the stops
 # Run
 Tu run this project i recomend opening the file on a code editor and opening the html with any type of extension. Or following
 this commands:
-$ git clone https://github.com/cpmn/Real-Time-Bus-Tracking
+$ git clone https://github.com/Sergiorioss524/Map
 $ cd Real-Time-Bus-Tracking
 and then run the HTML file.
