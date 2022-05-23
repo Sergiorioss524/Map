@@ -1,5 +1,9 @@
 # Map
-A map that shows the stops between the MIT and Harvard
+This project was made during the ninth week of the MITxpro Full Stack developer course an it is about working with apis. In
+this case the project you are seeing is a real-time-tracker that shows the stops between the MIT and Harvard.
 # Run
-To run this program i use the code pen app that is easy to use and shows the code in each file
-In this case i have used a single file that is the html one but it contains the js and css part also
+Tu run this project i recomend opening the file on a code editor and opening the html with any type of extension. Or following
+this commands:
+$ git clone https://github.com/cpmn/Real-Time-Bus-Tracking
+$ cd Real-Time-Bus-Tracking
+and then run the HTML file.
